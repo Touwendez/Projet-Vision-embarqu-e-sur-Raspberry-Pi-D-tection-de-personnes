@@ -1,4 +1,4 @@
-# Projet — Vision embarquée sur Raspberry Pi : Détection de personnes (temps réel)
+# Projet Vision embarquée sur Raspberry Pi : Détection de personnes (temps réel)
 
 Ce dépôt présente un système de **vision embarquée** déployé sur **Raspberry Pi** permettant la **détection de personnes en temps réel** à partir d’un flux caméra.  
 L’objectif est d’obtenir une détection **fiable en conditions réelles**, avec une exécution **continue sous Linux** (orchestration des scripts, logs, relance) et des performances adaptées à une plateforme embarquée.
